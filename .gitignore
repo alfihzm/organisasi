@@ -1,0 +1,24 @@
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+.env
+.env.backup
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+auth.json
+npm-debug.log
+yarn-error.log
+/.idea
+/.vscode
+
+# Skip file migrasi:
+/database/migrations/2024_09_10_170724_create_files_table.php
+/database/migrations/2024_09_10_173012_add_filepath_to_files_table.php
+
+# Skip file seeder:
+/database/seeders/FilesTableSeeder.php
+/database/seeders/OpenRecruitmentSeeder.php
+/database/seeders/Dpcs_seed.php
