@@ -58,7 +58,7 @@
 
 <div class="container">
     <!-- Tampilan Desktop -->
-    <h5 class="card-title text-center mb-4" style="color: #2E3192;">[Struktural HIMSI DPP 2024]</h5>
+    <h5 class="card-title text-center mb-4" style="color: #2E3192;">[STRUKTURAL HIMPUNAN MAHASISWA]</h5>
 
     <div class="d-none d-lg-flex row mb-3 justify-content-center">
         <div class="col-lg-3">
