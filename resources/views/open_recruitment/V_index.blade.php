@@ -11,11 +11,11 @@
         <div class="mt-2">
             @include('layouts.partials.alert')
         </div>
-        <div class="box-video-profile rounded">
+        {{-- <div class="box-video-profile rounded">
             <iframe width="420" height="240" style="position: relative;z-index: 10;margin:10px"
                 src="https://www.youtube.com/embed/sz2MdTHIXx4">
             </iframe>
-        </div>
+        </div> --}}
         <div class="card shadow position-relative">
             <div class="card-body">
                 <div class="d-flex justify-content-center">
