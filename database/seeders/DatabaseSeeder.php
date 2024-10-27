@@ -18,7 +18,7 @@ class DatabaseSeeder extends Seeder
             Campuses_seed::class,
             Positions_seed::class,
             Users_seed::class,
-            Dpcs_seed::class,
+            // Dpcs_seed::class,
             UrlSeed::class
         ]);
     }
