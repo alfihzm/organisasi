@@ -53,8 +53,8 @@
         <!-- Login box.scss -->
         <!-- ============================================================== -->
         <div class="auth-wrapper d-flex no-block justify-content-center align-items-center position-relative"
-            style="background:url({{ asset('template/assets/images/big/auth-bg.jpg') }}) no-repeat center center;">
-            <div class="auth-box row justify-content-center">
+            style="background:url({{ asset('template/assets/images/big/auth-bg5.jpg') }}) no-repeat center center;">
+            <div class="row justify-content-center">
                 <div class="col-lg-8 col-md-7 bg-white border border-secondary rounded-1">
                     <div class="p-3">
                         <div class="text-center">
