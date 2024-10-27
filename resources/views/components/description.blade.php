@@ -23,54 +23,32 @@
     }
 </style>
 
-<h5 class="card-title" style="color: #2E3192;">[PROFIL HIMSI UBSI 2024]</h5>
+<h5 class="card-title" style="color: #2E3192;">[PROFIL HIMPUNAN MAHASISWA 2024]</h5>
 <p>
-    Halo Sobat <span style="color: #2E3192;"> Sistem Informasi! </span> 👋🏻
+    Halo <span style="color: #2E3192;"> Mahasiswa! </span> 👋🏻
 </p>
 <br>
 <p>
     Kamu masih galau mau masuk HIMA apa?
     Eits, tunggu dulu!
-    Kenalan dulu yuk sama HIMSI
+    Kenalan dulu yuk sama kami!
 </p>
 <br>
 <p>
-    Hmm, apa sih itu HIMSI? <br>
-    HIMSI adalah ORMAWA yang merangkul seluruh Mahasiswa Sistem Informasi
+    Jadi apa sih Himpunan Mahasiswa itu? <br>
+    Himpunan Mahasiswa adalah organisasi kemahasiswaan yang berfungsi sebagai wadah bagi mahasiswa untuk mengembangkan
+    potensi diri, menjalin relasi, dan berpartisipasi dalam kegiatan akademik dan non-akademik. Organisasi ini
+    memberikan dukungan, informasi, dan advokasi kepada anggotanya, serta membantu mengasah keterampilan kepemimpinan
+    dan organisasi.
 </p>
 <br>
 <p>
-    Coba nonton video ini deh, agar kalian dapat mengenal lebih dalam tentang HIMSI.
-</p>
-<br>
-<p>
-    Berikut adalah profil dari HIMSI UBSI 2024 🥰
-</p>
-<br>
-<p>
-    Keren ngga? Keren dong pastinya ✨
-</p>
-<p>
-    So, tunggu apalagi?
-</p>
-<p>
-    Yuk, join HIMSI UBSI ya!
-</p>
-<br>
-<p>
-    Open Recruitment HIMSI dimulai pada
-    22 September 2024
-    pada acara ORMAWA EXPO Universitas BSI di Kampus Kaliabang,
-    <span class="text-danger"> dan pendaftaran berakhir di tanggal 7 Oktober 2024. </span>
-</p>
-<br>
-<p>
-    Atau bisa juga daftar di website ini
+    Kamu bisa mendaftar untuk menjadi calon anggota di website ini lho!
 </p>
 
 <br>
 <p>
-    Kalau udah daftar HIMSI, apa aja sih yang akan kamu dapatkan?
+    Kalau udah daftar Himpunan Mahasiswa, apa aja sih yang akan kamu dapatkan?
     <br>
     Yang pastinya :
 </p>
@@ -80,7 +58,7 @@
     <li>Relasi</li>
     <li>Softskill</li>
     <li>Kemampuan Public Speaking</li>
-    <li>dan masih banyak lainnya.</li>
+    <li>dan masih banyak lainnya lagi!.</li>
 </ul>
 
 <p class="fst-italic">
@@ -92,28 +70,3 @@
     untuk
     bangsa dan negara!"
 </p>
-<br>
-<p>
-    Salam Kenal dari Kami, Pengurus HIMSI UBSI 🤗
-</p>
-<br>
-#HIMSIUBSI
-<br>
-#OPENRECRUITMENTHIMSI2024
-<br>
-#OPRECHIMSIUBSI2024
-<br>
-#GANUPRANA
-<br>
-#MAHASISWAUBSI
-<br>
-#MAHASISWASI
-<br>
-#SISTEMINFORMASI
-<br>
-#MAHASISWAINDONESIA
-<br>
-#UBSI
-<div class="text-center mb-2 mt-2">
-    <a href="/oprec/choose-campus" class="btn custom">Daftar Sekarang</a>
-</div>
