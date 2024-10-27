@@ -26,9 +26,6 @@
                             <li class="nav-item">
                                 <a class="nav-link" href="#galeri" data-bs-toggle="tab">GALERI</a>
                             </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="#divisi" data-bs-toggle="tab">DIVISI</a>
-                            </li>
                         </ul>
 
                     </ul>
@@ -51,12 +48,6 @@
                     <!-- Struktural HIMSI -->
                     <div class="tab-pane fade" id="struktural">
                         @component('components.struktural')
-                        @endcomponent
-                    </div>
-
-                    <!-- Divisi HIMSI -->
-                    <div class="tab-pane fade" id="divisi">
-                        @component('components.guest-divisi')
                         @endcomponent
                     </div>
 
