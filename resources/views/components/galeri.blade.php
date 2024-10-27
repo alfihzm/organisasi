@@ -1,5 +1,5 @@
-<h5 class="card-title" style="color: #2E3192;">[GALERI HIMSI UBSI 2024]</h5>
-<p class="mb-3"> Berikut adalah beberapa momen dari kegiatan HIMSI 🎉 </p>
+<h5 class="card-title" style="color: #2E3192;">[GALERI HIMPUNAN MAHASISWA]</h5>
+<p class="mb-3"> Berikut adalah beberapa momen dari kegiatan Himpunan Mahasiswa 🎉 </p>
 
 <div class="gallery row row-cols-1 row-cols-sm-2 row-cols-md-3 g-4">
     <div class="col">
