@@ -3,7 +3,7 @@
         <div class="container-fluid text-center">
             <h5 class="page-title" style="margin-bottom: 30px; font-size: 1.5em;">
                 <span class="text-primary">
-                    Struktural HIMSI DPC {{ $campus->name }}
+                    Struktural HIMA {{ $campus->name }}
                 </span>
             </h5>
 
@@ -15,7 +15,7 @@
         <div class="container mt-3 d-lg-none">
             <div class="card text-center w-100" id="infoCard">
                 <div class="card-body d-flex justify-content-center align-items-center">
-                    <p class="card-text" id="cardText">Struktural HIMSI DPC {{ $campus->name }}</p>
+                    <p class="card-text" id="cardText">Struktural HIMA {{ $campus->name }}</p>
                 </div>
                 <div class="card-footer">
                     2024

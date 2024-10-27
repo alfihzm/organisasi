@@ -3,7 +3,7 @@
         <div class="mx-auto">
             <h5>HIMSI UBSI</h5>
         </div>
-        <img src="<?= asset('img/logo/bsi.png') ?>" class="logo-navbar">
+        <img src="<?= asset('img/logo/organization.webp') ?>" class="logo-navbar">
     @endcomponent
     <div class="container">
         <div class="d-flex justify-content-center align-items-center mt-4">

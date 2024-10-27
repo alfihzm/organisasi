@@ -40,7 +40,7 @@
             <li class="nav-item {{ Request::is('info-dpc') ? 'active' : '' }}">
                 <a href="/info-dpc">
                     <i class="la la-users"></i>
-                    <p> Struktural DPC {{ $campus->name }} </p>
+                    <p> Struktural Cabang {{ $campus->name }} </p>
                 </a>
             </li>
         </ul>

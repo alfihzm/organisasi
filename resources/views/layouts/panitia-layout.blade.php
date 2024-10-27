@@ -18,7 +18,7 @@
     <link href="{{ asset('template/dist/css/style.min.css') }}" rel="stylesheet">
     <link rel="stylesheet" href="{{ asset('template/css/custom.css') }}">
     <script src="{{ asset('js/jquery.js') }}"></script>
-    <link rel="icon" type="image/x-icon" href="{{ asset('img/logo/himsi.ico') }}">
+    <link rel="icon" type="image/x-icon" href="{{ asset('img/logo/organization.ico') }}">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 
 </head>

@@ -13,13 +13,13 @@
             <div class="navbar-brand justify-content-start" onclick="window.location.href = '/panitia'"
                 style="cursor: pointer;gap:1rem;">
                 <!-- Dark Logo icon -->
-                <img src="{{ asset('img/logo/himsi.webp') }}" height="48" alt="homepage" class="dark-logo" />
+                <img src="{{ asset('img/logo/organization.webp') }}" height="48" alt="homepage" class="dark-logo" />
                 <!-- Light Logo icon -->
-                <img src="{{ asset('img/logo/himsi.webp') }}" height="48" alt="homepage" class="light-logo" />
+                <img src="{{ asset('img/logo/organization.webp') }}" height="48" alt="homepage" class="light-logo" />
                 <!--End Logo icon -->
                 <!-- Logo text -->
                 <span class="logo-text">
-                    HIMSI UBSI
+                    HIMA
                 </span>
             </div>
             <!-- ============================================================== -->
@@ -67,8 +67,8 @@
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="javascript:void(0)" data-toggle="dropdown"
                         aria-haspopup="true" aria-expanded="false">
-                        <img src="/storage/img/users/{{ auth()->user()->image }}" alt="user" class="rounded-circle"
-                            width="40">
+                        <img src="{{ asset('img/users/' . auth()->user()->image) }}" alt="user"
+                            class="rounded-circle" width="40">
                         <span class="ml-2 d-none d-lg-inline-block"> <span
                                 class="text-dark">{{ auth()->user()->NIM }}</span> <i data-feather="chevron-down"
                                 class="svg-icon"></i></span>

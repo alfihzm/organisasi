@@ -7,50 +7,6 @@
     @endcomponent
     <div class="container my-3">
         @include('layouts.partials.alert')
-        <div class="card shadow">
-            <div class="card-header judul-halaman">
-                <div class="text-center my-3">
-                    <h4>Ubah Biodata Peserta {{ $OR->NIM }}</h4>
-                </div>
-            </div>
-            <div class="card-body">
-                <p>HIMSI atau Himpunan Mahasiswa Sistem Informasi adalah salah satu Organisasi Mahasiswa di Universitas
-                    Bina
-                    Sarana Informatika. HIMSI tersebar di beberapa KAMPUS UTAMA dan KAMPUS PSDKU.
-                    untuk lingkup KAMPUS UTAMA di wilayah JADETABEK (Jakarta, Depok, Tangerang, Bekasi) yaitu :</p>
-                <p class="mt-2 text-primary"><b>SEKTOR BARAT</b></p>
-                <ul>
-                    <li>BSD</li>
-                    <li>Cengkareng</li>
-                    <li>Cimone</li>
-                </ul>
-                <p class="mt-2 text-success"><b>SEKTOR TENGAH</b></p>
-                <ul>
-                    <li>Dewi Sartika</li>
-                    <li>Fatmawati</li>
-                    <li>Kramat 98</li>
-                    <li>Margonda</li>
-                    <li>Pemuda</li>
-                </ul>
-                <p class="mt-2 text-danger"><b>SEKTOR TIMUR</b></p>
-                <ul>
-                    <li>Cikarang</li>
-                    <li>Cut Mutia</li>
-                    <li>Kaliabang</li>
-                    <li>Kalimalang</li>
-                </ul>
-                <p>Sedangkan untuk lingkup <b>KAMPUS PSDKU</b> (Program Studi Diluar Kampus Utama) yaitu :
-                    Karawang, Bogor, Pontianak, Tegal. </p>
-                <p class="mt-3">Teruntuk Mahasiswa/i yang mendaftarkan diri, Jika KAMPUS UTAMA anda tidak disebutkan
-                    di
-                    atas, jangan
-                    berkecil hati tetap lanjutkan pendaftaran. Kami akan membantu teman-teman untuk mendirikannya di
-                    Kampus
-                    yang belum ada, dan membantu teman-teman Mahasiswa/i untuk mengembangkan potensi diri anda</p>
-
-                <p class="mt-2"><b>Selamat Mendaftar</b></p>
-            </div>
-        </div>
 
         <form action="/oprec/form/{{ $OR->id }}" method="post" enctype="multipart/form-data">
             @csrf

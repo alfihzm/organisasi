@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <!-- Favicon icon -->
-    <link rel="icon" type="image/png" sizes="16x16" href="{{ asset('img/logo/himsi.ico') }}">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ asset('img/logo/organization.ico') }}">
     <title>HIMSI</title>
     <!-- Custom CSS -->
     <link href="{{ asset('template/dist/css/style.min.css') }}" rel="stylesheet">
@@ -59,10 +59,11 @@
                     style="box-shadow: none;">
                     <div class="p-3">
                         <div class="text-center">
-                            <img src="{{ asset('img/logo/himsi.webp') }}" height="64">
+                            <img src="{{ asset('img/logo/organization.webp') }}" height="64">
                         </div>
                         <h2 class="mt-3 text-center text-primary">LOGIN</h2>
-                        <p class="text-center">Fitur ini dikhususkan untuk peserta open recruitment 2024 HIMSI</p>
+                        <p class="text-center">Fitur ini dikhususkan untuk peserta open recruitment Himpunan Mahasiswa
+                        </p>
 
                         @if ($errors->any())
                             <div class="alert alert-danger alert-dismissible fade show" role="alert">

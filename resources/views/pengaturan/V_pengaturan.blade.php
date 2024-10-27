@@ -75,7 +75,7 @@
                             <p>
                                 Klik untuk
                                 {{ $is_active ? 'mematikan' : 'menyalakan' }}
-                                OPREC HIMSI DPC
+                                OPREC HIMA CABANG
                             </p>
 
                             <form id="status-form">

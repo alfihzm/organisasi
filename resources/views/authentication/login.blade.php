@@ -9,8 +9,8 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <!-- Favicon icon -->
-    <link rel="icon" type="image/png" sizes="16x16" href="{{ asset('img/logo/himsi.ico') }}">
-    <title>HIMSI</title>
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ asset('img/logo/organization.ico') }}">
+    <title>Himpunan Mahasiswa</title>
     <!-- Custom CSS -->
     <link href="{{ asset('template/dist/css/style.min.css') }}" rel="stylesheet">
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -58,10 +58,11 @@
                 <div class="col-lg-8 col-md-7 bg-white border border-secondary rounded-1">
                     <div class="p-3">
                         <div class="text-center">
-                            <img src="{{ asset('img/logo/himsi.webp') }}" height="64">
+                            <img src="{{ asset('img/logo/organization.webp') }}" height="64">
                         </div>
                         <h2 class="mt-3 text-center text-primary">Login</h2>
-                        <p class="text-center text-dark">Fitur ini dikhususkan untuk panitia open recruitment 2024 HIMSI
+                        <p class="text-center text-dark">Fitur ini dikhususkan untuk panitia open recruitment Himpunan
+                            Mahasiswa
                         </p>
 
                         @if ($errors->any())

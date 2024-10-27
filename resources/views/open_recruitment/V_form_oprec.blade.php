@@ -30,50 +30,6 @@
                 </div>
             @endif
         </div>
-        <div class="card shadow">
-            <div class="card-header judul-halaman">
-                <div class="text-center my-3">
-                    <h4>Pendaftaran Anggota Baru HIMSI UBSI Kampus {{ $campus->name }}</h4>
-                </div>
-            </div>
-            <div class="card-body">
-                <p>HIMSI atau Himpunan Mahasiswa Sistem Informasi adalah salah satu Organisasi Mahasiswa di Universitas
-                    Bina
-                    Sarana Informatika. HIMSI tersebar di beberapa KAMPUS UTAMA dan KAMPUS PSDKU.
-                    untuk lingkup KAMPUS UTAMA di wilayah JADETABEK (Jakarta, Depok, Tangerang, Bekasi) yaitu :</p>
-                <p class="mt-2 text-primary"><b>SEKTOR BARAT</b></p>
-                <ul>
-                    <li>BSD</li>
-                    <li>Cengkareng</li>
-                    <li>Cimone</li>
-                </ul>
-                <p class="mt-2 text-success"><b>SEKTOR TENGAH</b></p>
-                <ul>
-                    <li>Dewi Sartika</li>
-                    <li>Fatmawati</li>
-                    <li>Kramat 98</li>
-                    <li>Margonda</li>
-                    <li>Pemuda</li>
-                </ul>
-                <p class="mt-2 text-danger"><b>SEKTOR TIMUR</b></p>
-                <ul>
-                    <li>Cikarang</li>
-                    <li>Cut Mutia</li>
-                    <li>Kaliabang</li>
-                    <li>Kalimalang</li>
-                </ul>
-                <p>Sedangkan untuk lingkup <b>KAMPUS PSDKU</b> (Program Studi Diluar Kampus Utama) yaitu :
-                    Karawang, Bogor, Pontianak, Tegal. </p>
-                <p class="mt-3">Teruntuk Mahasiswa/i yang mendaftarkan diri, Jika KAMPUS UTAMA anda tidak disebutkan
-                    di
-                    atas, jangan
-                    berkecil hati tetap lanjutkan pendaftaran. Kami akan membantu teman-teman untuk mendirikannya di
-                    Kampus
-                    yang belum ada, dan membantu teman-teman Mahasiswa/i untuk mengembangkan potensi diri anda</p>
-
-                <p class="mt-2"><b>Selamat Mendaftar</b></p>
-            </div>
-        </div>
 
         <form action="/oprec" method="post" enctype="multipart/form-data">
             @csrf
@@ -212,12 +168,7 @@
                 <div class="card-body">
                     <img class="img-preview img-fluid mb-3 col-5 d-none">
                     <div class="input">
-                        <label for="follow" class="form-label">Unggah Screenshot Bukti Follow IG HIMSI</label>
-                        <div class="mb-2">
-                            <a target="_blank" href="https://www.instagram.com/himsi.ubsi" class="form-label"
-                                style="text-decoration: none; color: #D62976">Ke Instagram HIMSI UBSI
-                            </a>
-                        </div>
+                        <label for="follow" class="form-label">Unggah Screenshot Bukti Follow IG HIMA</label>
                         <input type="file" accept="image/png, image/jpeg, image/jpg"
                             class="form-control @error('follow') is-invalid @enderror" name="follow" id="follow"
                             onchange="previewImage()">
@@ -299,7 +250,8 @@
             <div class="card my-3">
                 <div class="card-body">
                     <div class="input">
-                        <label for="motivasi_bergabung" class="form-label">Alasan Anda Ingin Bergabung HIMSI?</label>
+                        <label for="motivasi_bergabung" class="form-label">Alasan Anda Ingin Bergabung Himpunan
+                            Mahasiswa?</label>
                         <textarea name="motivasi_bergabung" id="motivasi_bergabung"><?= old('motivasi_bergabung') ?></textarea>
                         @error('motivasi_bergabung')
                             <p class="text-danger"><small>{{ $message }}</small></p>

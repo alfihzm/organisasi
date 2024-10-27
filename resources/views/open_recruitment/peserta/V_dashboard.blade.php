@@ -24,7 +24,7 @@
                                 </div>
                                 <div class="col-8 d-flex align-items-center">
                                     <div class="numbers">
-                                        <p class="card-category">Jumlah Kampus Utama UBSI</p>
+                                        <p class="card-category">Jumlah Kampus Utama</p>
                                         <h4 class="card-title">{{ $totalCampus }} Kampus</h4>
                                     </div>
                                 </div>
@@ -43,8 +43,8 @@
                                 </div>
                                 <div class="col-8 d-flex align-items-center">
                                     <div class="numbers">
-                                        <p class="card-category">Jumlah Cabang HIMSI</p>
-                                        <h4 class="card-title">8 DPC</h4>
+                                        <p class="card-category">Jumlah Cabang HIMA</p>
+                                        <h4 class="card-title">6 Cabang</h4>
                                     </div>
                                 </div>
                             </div>
@@ -62,8 +62,8 @@
                                 </div>
                                 <div class="col-8 d-flex align-items-center">
                                     <div class="numbers">
-                                        <p class="card-category">Jumlah Anggota HIMSI</p>
-                                        <h4 class="card-title">392 Anggota</h4>
+                                        <p class="card-category">Jumlah Anggota HIMA</p>
+                                        <h4 class="card-title">150 Anggota</h4>
                                     </div>
                                 </div>
                             </div>
@@ -115,8 +115,8 @@
                                 <h6> Status: <span class="text-danger"> Kamu belum mengumpulkan CV </span>
                                 </h6>
                                 <small id="cvUploadHelp" class="form-text text-muted mb-2">
-                                    *Batas pengumpulan CV pada tanggal: <span class="text-danger"> 26
-                                        September 2024 </span>
+                                    *Batas pengumpulan CV pada tanggal: <span class="text-danger"> 1
+                                        Desember 2024 </span>
                                 </small>
                                 @if ($campus && $campus->template_cv)
                                     <h6> Unduh Template CV:</h6>

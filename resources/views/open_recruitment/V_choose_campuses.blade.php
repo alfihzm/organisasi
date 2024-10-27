@@ -36,7 +36,7 @@
         <div class="mx-auto py-2">
             <h5>KAMPUS</h5>
         </div>
-        <img src="<?= asset('img/logo/bsi.png') ?>" class="logo-navbar">
+        <img src="<?= asset('img/logo/organization.webp') ?>" class="logo-navbar">
     @endcomponent
     <div class="container my-3">
         <div class="card">
@@ -45,10 +45,6 @@
                     <h4>ASAL KAMPUS</h4>
                     <p>Silahkan pilih kampus kalian</p>
                 </div>
-            </div>
-            <div class="card-header deadline">
-                <p><i class="fas fa-calendar-alt"></i> Akhir Pendaftaran: <span class="text-danger"> 7 Oktober 2024
-                    </span></p>
             </div>
             <div class="card-body list-kampus">
                 <div class="row row-cols-2 justify-content-center">
