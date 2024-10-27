@@ -23,7 +23,7 @@
     }
 </style>
 
-<h5 class="card-title" style="color: #2E3192;">[PROFIL HIMPUNAN MAHASISWA 2024]</h5>
+<h5 class="card-title" style="color: #2E3192;">[PROFIL HIMPUNAN MAHASISWA]</h5>
 <p>
     Halo <span style="color: #2E3192;"> Mahasiswa! </span> 👋🏻
 </p>
