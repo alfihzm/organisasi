@@ -102,7 +102,7 @@
                                                 </td>
                                             </tr>
                                             <tr class="">
-                                                <td class="align-middle">Bukti Follow HIMSI DPP</td>
+                                                <td class="align-middle">Bukti Follow HIMA PUSAT</td>
                                                 <td class="align-middle text-center"><span class="mx-2">:</span></td>
                                                 <td class="align-middle">
                                                     <button type="button" class="btn btn-sm btn-info"
@@ -113,7 +113,7 @@
                                             @if ($oprec->follow_dpc == null)
                                                 <tr>
                                                     <td class="align-middle" style="vertical-align: top;">Bukti Follow
-                                                        HIMSI {{ $oprec->campuses->name }}</td>
+                                                        HIMA {{ $oprec->campuses->name }}</td>
                                                     <td class="align-middle text-center"
                                                         style="vertical-align: middle;"><span class="mx-2">:</span>
                                                     </td>

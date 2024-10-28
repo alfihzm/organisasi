@@ -171,11 +171,6 @@
                                         <span class="text-primary"> Silahkan hubungi
                                             panitia untuk menghapus CV </span>
                                         <br>
-                                        <span class="text-dark"> Group Koordinasi:
-                                            <a class="text-success"
-                                                href="https://chat.whatsapp.com/D9qPrc240biGVxaLRq7bEv"> Group HIMSI
-                                            </a>
-                                        </span>
                                     </p>
                                 </div>
 

@@ -28,7 +28,7 @@ return new class extends Migration
             $table->string('instagram')->default('instagram');
             $table->string('email', 128)->unique();
             $table->text('motivasi_bergabung');
-            $table->enum('status_interview', ['sudah', 'belum'])->default('belum');
+            $table->enum('status_interview', ['lolos', 'belum'])->default('belum');
             $table->timestamps();
         });
     }
